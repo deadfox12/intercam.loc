@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="70336000-b4a2-4c45-87b7-d40a647161f2" name="beget" url="http://free1.beget.com">
+        <fileTransfer host="free1.beget.com" port="21" password="df9bdf9bdf98df98df99df99dfd8dfd8" username="f962767c_deadfox">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,128 @@
+#product {
+    display: inline-block;
+    height: auto;
+    max-width: 100%;
+}
+
+#prod {
+    padding-bottom: 10px;
+}
+#header {
+    background: url(img/fon.jpg) 0% 10% no-repeat;
+    background-size: cover;
+    margin-right: 0px;
+}
+#footer {
+    background: #2c2c2c;
+    padding: 25px 0;
+    margin-top: 50px;
+    position: static;
+
+}
+.media .media-body h4,p{
+    margin-left: 10px;
+}
+.media-right img{
+    height	: 350px;
+}
+.date {
+    background: url(/img/date.png) 1px 0 no-repeat;
+    display: block;
+    color: black;
+    padding: 2px 0 0 24px;
+    margin: 0 0 20px;
+    font-size: 14px;
+}
+#footer .col-lg-6 {
+    font-size:16px;
+    color: #bce8f1;
+}
+
+#footer .col-lg-6 p{
+    margin-left: 10px;
+}
+
+
+#footer #social .tw {
+    background: url(img/tw-1.png) no-repeat;
+}
+#footer #social .fb {
+    background: url(img/fb-1.png) no-repeat;
+}
+#footer #social .vk {
+    background: url(img/vk-1.png) no-repeat;
+}
+#footer #social a {
+    display: block;
+    width: 54px;
+    height: 54px;
+    float: left;
+    border: 1px solid #424242;
+    margin-left: -1px;
+    position: relative;
+}
+
+#carousel{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#header-text{
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size:18px;
+    color: snow;
+    text-align: right;
+    margin-right: 0px;
+    text-shadow:
+            -0 -1px 1px #000000,
+            0 -1px 1px #000000,
+            -0 1px 1px #000000,
+            0 1px 1px #000000,
+            -1px -0 1px #000000,
+            1px -0 1px #000000,
+            -1px 0 1px #000000,
+            1px 0 1px #000000,
+            -1px -1px 1px #000000,
+            1px -1px 1px #000000,
+            -1px 1px 1px #000000,
+            1px 1px 1px #000000,
+            -1px -1px 1px #000000,
+            1px -1px 1px #000000,
+            -1px 1px 1px #000000,
+            1px 1px 1px #000000;
+}
+
+.form-signin {
+    max-width: 400px;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+.nav-list {
+    width: 200px;
+    height: 100%;
+    background: #262626;
+    color: #9acfea;
+}
+
+.col-lg-6 .text{
+    font-size: 16px;
+    color: black;
+    margin-bottom: 12px;
+    box-sizing: border-box;
+}
+.col-lg-6 .text .img{
+    display: inline-block;
+    width: 28px;
+    height: 28px;
+    vertical-align: middle;
+}
+.col-lg-6 .text.addr .img{
+background: url("img/contacts.png") no-repeat;
+}
+.col-lg-6 .text.tel .img{
+    background: url("img/phone.png") no-repeat;
+}
+.col-lg-6 .text.mail .img{
+    background: url("img/email.png") no-repeat;
+}
